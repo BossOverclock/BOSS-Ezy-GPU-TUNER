@@ -36,4 +36,4 @@ If Overclock-BOSS helped you dial in a rock-solid rig or saved your hardware fro
 
 ## 💬 Community & Support
 Share your HALL OF FAME numbers be a member of a Real OVERCLOCKERS group , report bugs, or get tuning help on our official Discord: Ill see you there  
-👉 **https://discord.gg**
+👉 **https://discord.gg/Nn6qx3qv**
