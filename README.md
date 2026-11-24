@@ -2,7 +2,7 @@
 
 > **"The Stability wins the game. is the Motto."**
 
-**Overclock-BOSS: Ezy GPU Tuner** is an open, no-nonsense GPU tuning utility built for users who prioritize rock-solid stability over fleeting benchmark spikes. Peak clock numbers that collapse under real-world load aren't real MHz—**the flat, true line wins.**
+**Overclock-BOSS: Ezy GPU Tuner** is an open, no-nonsense GPU tuning utility built for users who prioritize rock-solid stability over fleeting benchmark spikes. Peak clock numbers that collapse under real-world load aren't real MHz—**the flat, true line wins.** anyone can do it even little Timmy with his 5060 ti 8gb 
 
 ---
 
@@ -11,7 +11,7 @@ Chasing maximum theoretical clock speeds often leads to micro-stutters, thermal 
 
 ## ✨ Features (v0.01)
 * **🚨 All-Time First Hotspot Alarm System:** Real-time thermal warning system monitoring both **CPU and GPU hotspots**, alerting you immediately when temperatures creep into a high-risk zone.
-* **📈 Stability-Focused Tuning:** Dial in clean, sustainable clock and voltage offsets built to hold steady under load.
+* **📈 Stability-Focused Tuning:** Dial in clean, sustainable clock and powerlimits built to hold steady under load.
 * **⚡ Lightweight & Direct:** Zero bloatware—just direct hardware communication and fast execution.
 
 ## ⚙️ How Control Works
