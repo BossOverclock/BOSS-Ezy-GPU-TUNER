@@ -1,8 +1,0 @@
-BossOverclock © 2026 RealB. All rights reserved.
-
-You may NOT:
-- copy, redistribute, sell, or host this software (source or binaries) without written permission from the author;
-- decompile, disassemble, reverse engineer, or perform binary analysis on this software;
-- use the BossOverclock name, logo, or UI design for derivative projects without permission.
-
-The app invokes an external engine binary via its documented command-line interface only; that binary is the property of its author and its own license terms apply. HWiNFO is proprietary software used for sensor reads. The hwinfo-main library (MIT, © 2022 Leon Freist) is used under its license.
