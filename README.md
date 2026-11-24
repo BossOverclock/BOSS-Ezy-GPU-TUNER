@@ -39,4 +39,4 @@ BTC: bc1q82cu4p7qu9l5lwf560ka2llj52ncs7t65qsr9c
 
 ## 💬 Community & Support
 Share your HALL OF FAME numbers be a member of a Real OVERCLOCKERS group , report bugs, or get tuning help on our official Discord: Ill see you there  
-👉 **https://discord.gg**
+👉 **https://discord.gg/Nn6qx3qv**
