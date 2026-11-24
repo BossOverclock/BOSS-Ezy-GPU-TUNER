@@ -32,7 +32,10 @@ Overclock-BOSS bridges industry-standard telemetry and low-level APIs into a sin
 **Free for everyone, always will be.** No paywalls, no pro tiers, and no locked features.
 
 If Overclock-BOSS helped you dial in a rock-solid rig or saved your hardware from overheating, grabbing me a coffee or dropping a small donation is always appreciated with big smiles!  
-☕ **[Buy Me a Coffee / Donate](#)** *( Wallets ETH: 0xb29122e67347c8C205107ce26dB63B5B62534f72 BTC: bc1q82cu4p7qu9l5lwf560ka2llj52ncs7t65qsr9c )*
+☕ **[Buy Me a Coffee / Donate](#)**  
+Wallets 
+ETH: 0xb29122e67347c8C205107ce26dB63B5B62534f72 
+BTC: bc1q82cu4p7qu9l5lwf560ka2llj52ncs7t65qsr9c
 
 ## 💬 Community & Support
 Share your HALL OF FAME numbers be a member of a Real OVERCLOCKERS group , report bugs, or get tuning help on our official Discord: Ill see you there  
