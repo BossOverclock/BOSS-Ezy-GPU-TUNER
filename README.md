@@ -9,7 +9,7 @@
 ## 🎯 Why Stability Matters
 Chasing maximum theoretical clock speeds often leads to micro-stutters, thermal throttling, or driver crashes mid-game. Overclock-BOSS focuses on helping you find and lock in your hardware's true, sustainable ceiling so your frame times stay flat and predictable under heavy, sustained workloads.
 
-## ✨ Features (v0.01)
+## ✨ Feature First Build (v0.05)
 * **🚨 All-Time First Hotspot Alarm System:** Real-time thermal warning system monitoring both **CPU and GPU hotspots**, alerting you immediately when temperatures creep into a high-risk zone.
 * **📈 Stability-Focused Tuning:** Dial in clean, sustainable clock and voltage offsets built to hold steady under load.
 * **⚡ Lightweight & Direct:** Zero bloatware—just direct hardware communication and fast execution.
